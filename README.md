@@ -1,5 +1,6 @@
-# Sistema de organização 
-# (Sistema de Gestão Interna (Categorias, Clientes, Fornecedores e Produtos))
+# Sistema de organização.
+# (Sistema de Gestão Interna (Categorias, Clientes, Fornecedores e Produtos).
+# CRUD (Create, Read, Uptade e Delete).
 
 
 # Integrantes:
@@ -145,6 +146,6 @@ obs: Conseguimos fazer o Back-end, além de ajustarmos o que a IA falou para mel
 
 # Links do Projeto:
 
-• Link da Aplicação (Deploy): 
+• Link da Aplicação (Deploy): https://sistema-organiza-o-pw.onrender.com
 
 • Link do Repositório GitHub: https://github.com/miguelrodrigues-dk/Sistema-Organiza-o-PW.git
