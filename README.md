@@ -147,4 +147,4 @@ obs: Conseguimos fazer o Back-end, além de ajustarmos o que a IA falou para mel
 
 • Link da Aplicação (Deploy): 
 
-• Link do Repositório GitHub:
+• Link do Repositório GitHub: https://github.com/miguelrodrigues-dk/Sistema-Organiza-o-PW.git
