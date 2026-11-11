@@ -145,6 +145,6 @@ obs: Conseguimos fazer o Back-end, além de ajustarmos o que a IA falou para mel
 
 # Links do Projeto:
 
-• Link da Aplicação (Deploy): 
+• Link da Aplicação (Deploy): https://sistema-organiza-o-pw.onrender.com
 
-• Link do Repositório GitHub:
+• Link do Repositório GitHub: https://github.com/miguelrodrigues-dk/Sistema-Organiza-o-PW.git
